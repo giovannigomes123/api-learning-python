@@ -3,11 +3,11 @@ import requests
 # URL da API OMDb
 api_url = "http://www.omdbapi.com/"
 # Sua chave de API (substitua pela sua chave real)
-api_key = "SUA_CHAVE_API"
+api_key = "44ec7412"
 
 # Parâmetros da requisição (título do filme e chave de API)
 params = {
-    "t": "Inception",  # Substitua pelo título do filme desejado
+    "t": "Avengers endgame",  # Substitua pelo título do filme desejado
     "apikey": api_key
 }
 
